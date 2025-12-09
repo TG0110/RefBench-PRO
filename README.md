@@ -35,8 +35,7 @@ python get_prediction_Acc.py  --prediction_file your_prediction_file.jsonl
 This example runs model inference and calculates benchmark accuracy in a single script.
 ```sh
 python eval_qwen3vl.py
-``` 
-for multiprocessing.
+```
 
 For other models, you should modify the following parts:
 - Model Loading and Inference: The code that loads your model and generates a response.
