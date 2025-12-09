@@ -36,10 +36,6 @@ This example runs model inference and calculates benchmark accuracy in a single 
 ```sh
 python eval_qwen3vl.py
 ``` 
-or 
-```sh
-python eval_qwen3vl_mp.py
-```
 for multiprocessing.
 
 For other models, you should modify the following parts:
