@@ -28,7 +28,7 @@ To comprehensively evaluate the capabilities of MLLMs on referring expression co
 - **Position**: focuses on identifying spatial relationships among different objects.
 - **Interaction**: refers to understanding relative relationships among objects of the same category, requiring accurate perception of explicit visual cues aligned with textual descriptions.
 
-### <img src="img/reasoning.png" width="2%"/>Compositional Reasoning
+### <img src="img/reasoning.png" width="3%"/>Compositional Reasoning
 - **Relation**: involves compositional referring expressions that require reasoning over multiple objects simultaneously.
 - **Commonsense**: assesses the model’s ability to identify objects through contextual or implicit descriptions rather than explicit naming.
 - **Rejection**: tests whether the model can correctly handle referring expressions that describe objects absent from the image.
